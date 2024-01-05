@@ -1,8 +1,28 @@
 
-<h1> Welcome To New DevOps Training</h1>
-<h1> Welcome To Training</h1>
-<h2> You see this because you have successfully installed Tomcat and  </h2>
-<h3> Congratulations and keep learning. The IT world is yours</h3>
-<p1> Test if webook is working with push trigger. </p1>
-<p2> Add a new paragraph </p2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Web App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Web App</h1>
+    </header>
+    <main>
+        <section id="products">
+            <!-- Product listings go here -->
+        </section>
+        <section id="cart">
+            <!-- Shopping cart content goes here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Company</p>
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>
 
