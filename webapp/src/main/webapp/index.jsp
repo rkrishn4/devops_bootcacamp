@@ -21,6 +21,7 @@
     </main>
     <footer>
         <p>&copy; 2024 Re Company</p>
+	<p>GOOD LUCK!!!</p>
     </footer>
     <script src="app.js"></script>
 </body>
