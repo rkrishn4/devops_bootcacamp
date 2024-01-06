@@ -25,7 +25,7 @@
 	<p>have fun!!</p>
 	<p>enjoy!</p>
 	<p>hi</p>
-	<p>hi10000</p>
+	<p>hitest</p>
     </footer>
     <script src="app.js"></script>
 </body>
