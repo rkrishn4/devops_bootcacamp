@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>Your Web App</h1>
+        <h1>RE Web App</h1>
     </header>
     <main>
         <section id="products">
@@ -20,7 +20,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Your Company</p>
+        <p>&copy; 2024 Re Company</p>
     </footer>
     <script src="app.js"></script>
 </body>
