@@ -25,7 +25,7 @@
 	<p>have fun!!</p>
 	<p>enjoy!</p>
 	<p>hi</p>
-	<p>krishnan</p>
+	<p>krishnanreva</p>
     </footer>
     <script src="app.js"></script>
 </body>
