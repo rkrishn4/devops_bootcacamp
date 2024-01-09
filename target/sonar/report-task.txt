@@ -1,0 +1,6 @@
+projectKey=dev
+serverUrl=http://18.216.12.180:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://18.216.12.180:9000/dashboard?id=dev
+ceTaskId=AYzwY4Nt6YYqZb39y1HK
+ceTaskUrl=http://18.216.12.180:9000/api/ce/task?id=AYzwY4Nt6YYqZb39y1HK

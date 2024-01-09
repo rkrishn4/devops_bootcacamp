@@ -17,8 +17,6 @@
         </section>
         <section id="cart">
             <!-- Shopping cart content goes here -->
-        </section>
-    </main>
     <footer>
         <p>&copy; 2024 Re Company</p>
 	<p>GOOD LUCK!!!</p>
