@@ -1,0 +1,32 @@
+---
+- hosts: all
+  tasks:
+
+   - name: copy docker file into Remote machine
+     copy:
+       src: dockerfile
+       dest: .
+     
+
+   - name: copy .war file into Remote machine
+     copy:
+        src: webapp.war
+        dest: .
+
+   - name: stop the running container
+     command: sudo docker stop k-con
+     ignore_errors: True
+  
+   - name: remove the running container
+     command: sudo docker rm k-con
+     ignore_errors: True
+
+   - name: remove the running images
+     command: sudo docker rmi k-im
+     ignore_errors: True
+
+   - name: create custome image from dockerfile
+     command: sudo docker build -t k-im .
+  
+   - name: create and run container
+     command: sudo docker run -d --name k-con -p 8080:8080 k-im

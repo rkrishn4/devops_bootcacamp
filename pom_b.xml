@@ -186,7 +186,7 @@
     <repository>
         <id>central</id>
         <name>ip-172-31-34-124.us-east-2.compute.internal-releases</name>
-        <url>http://18.191.122.78:8082/artifactory/devops_bootcampnew-libs-release-local</url>
+        <url>http://18.216.12.180:8082/artifactory/devops_bootcacamp-libs-release-local</url>
     </repository>
 </distributionManagement>
 
